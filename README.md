@@ -19,3 +19,6 @@ To-do list
 - 다른 smoothing 방법(ex-이웃 기준 변경)을 시험해 본다.
 - 기존 코드에서 runtime을 줄일 수 있도록 최적화하고, 다른 방식의 CA와 비교한다.
 - CA 프로젝트를 해당 프로젝트에 병합한다.
+
+
+https://www.researchgate.net/publication/228919622_Cellular_automata_for_real-time_generation_of
